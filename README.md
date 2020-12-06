@@ -6,10 +6,10 @@ actual React Native application
 # Introduction to React Native
 - Exercise 10.1: initializing the application
 - https://fullstackopen.com/en/part10/introduction_to_react_native#exercise-10-1
-- solution: 
+- solution: https://github.com/irynadunets/Full-Stack-Open-React-Native-2020/tree/main/part1
 - Exercise 10.2: setting up the ESLint
 - https://fullstackopen.com/en/part10/introduction_to_react_native#exercise-10-2
-- solution: 
+- solution: https://github.com/irynadunets/Full-Stack-Open-React-Native-2020/tree/main/part1
 # React Native basics
 - Exercise 10.3: the reviewed repositories list
 - https://fullstackopen.com/en/part10/react_native_basics#exercise-10-3
