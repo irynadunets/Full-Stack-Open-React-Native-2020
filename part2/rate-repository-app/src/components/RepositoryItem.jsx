@@ -1,7 +1,6 @@
 import React from 'react';
 import { Button, StyleSheet, TouchableHighlight, View, Image, Text } from 'react-native';
 
-
 const renderItem = (item) => {
   let url = item.ownerAvatarUrl;
     return (
@@ -59,7 +58,5 @@ const renderItem = (item) => {
      margin: 40
    }
  });
-
-
 
 export default renderItem;
