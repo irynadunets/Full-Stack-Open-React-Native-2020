@@ -13,25 +13,25 @@ actual React Native application
 # React Native basics
 - Exercise 10.3: the reviewed repositories list
 - https://fullstackopen.com/en/part10/react_native_basics#exercise-10-3
-- solution:
+- solution:https://github.com/irynadunets/Full-Stack-Open-React-Native-2020/tree/main/part2/rate-repository-app
 - Exercise 10.4: the app bar
 - https://fullstackopen.com/en/part10/react_native_basics#exercises-10-4-10-5
-- solution:
+- solution:https://github.com/irynadunets/Full-Stack-Open-React-Native-2020/tree/main/part2/rate-repository-app
 - Exercise 10.5: polished reviewed repositories list
 - https://fullstackopen.com/en/part10/react_native_basics#exercises-10-4-10-5
-- solution:
+- solution:https://github.com/irynadunets/Full-Stack-Open-React-Native-2020/tree/main/part2/rate-repository-app
 - Exercise 10.6: the sign in view
 - https://fullstackopen.com/en/part10/react_native_basics#exercises-10-6-10-7
-- solution:
+- solution:https://github.com/irynadunets/Full-Stack-Open-React-Native-2020/tree/main/part2/rate-repository-app
 - Exercise 10.7: scrollable app bar
 - https://fullstackopen.com/en/part10/react_native_basics#exercises-10-6-10-7
-- solution:
+- solution:https://github.com/irynadunets/Full-Stack-Open-React-Native-2020/tree/main/part2/rate-repository-app
 - Exercise 10.8: the sign in form
 - https://fullstackopen.com/en/part10/react_native_basics#exercise-10-8
-- solution:
+- solution:https://github.com/irynadunets/Full-Stack-Open-React-Native-2020/tree/main/part2/rate-repository-app
 - Exercise 10.9: validating the sign in form
 - https://fullstackopen.com/en/part10/react_native_basics#exercise-10-9
-- solution:
+- solution:https://github.com/irynadunets/Full-Stack-Open-React-Native-2020/tree/main/part2/rate-repository-app
 - Exercise 10.10: a platform specific font
 - https://fullstackopen.com/en/part10/react_native_basics#exercise-10-10
-- solution:
+- solution:https://github.com/irynadunets/Full-Stack-Open-React-Native-2020/tree/main/part2/rate-repository-app
